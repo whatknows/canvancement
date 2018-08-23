@@ -2,7 +2,7 @@
 // @name        Sort a Rubric
 // @namespace   https://github.com/jamesjonesmath/canvancement
 // @description This program allows the user to sort rubric criteria
-// @include     https://*.instructure.com/courses/*/rubrics/*
+// @include     https://canvas.colorado.edu/courses/*/rubrics/*
 // @require     https://gist.github.com/raw/2625891/waitForKeyElements.js
 // @version     2
 // @grant       none
